@@ -34,5 +34,5 @@ Exam 483: Programming in C# · Exam 486: Developing ASP.NET MVC Web Applications
 📫 Get in touch
 
 
-LinkedIn: linkedin.com/in/hennadii-malyhon
+LinkedIn: [linkedin.com/in/hennadii-malyhon](https://www.linkedin.com/in/hennadii-malyhon/)
 Email: gmalygon@gmail.com
